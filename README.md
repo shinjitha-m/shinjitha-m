@@ -1,5 +1,5 @@
 # Hi world! ![wave](https://github.com/user-attachments/assets/b7c348ab-5336-437a-ad55-00463ff3b0a3)
-I'm Shinjitha, a software engineer in the making from London, UK. 
+I'm Shinjitha, training to be a software engineer from London, UK. 
 
 I'm interested in full-stack development and automation!   
 
