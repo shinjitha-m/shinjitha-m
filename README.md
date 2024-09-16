@@ -1,21 +1,12 @@
-# Hi world! ![wave](https://github.com/user-attachments/assets/b7c348ab-5336-437a-ad55-00463ff3b0a3)
-I'm Shinjitha, training to be a software engineer from London, UK. 
+### Hello world! ![wave](https://github.com/user-attachments/assets/29372948-62f2-4980-9018-93f4053863fd)
+- I'm _Shinjitha_, exploring the art of software engineering from London, UK. 
 
-I'm interested in full-stack development and automation!   
+- As a degree apprentice, I'm fascinated by the crucial *role of Technology within Financial Services* - whether it be in large-scale, high-impact solutions or low-latency, high-performance computing - such as that in trading plants.
 
-Let's connect :)
+- I'm currently working on full-stack development and automation!   
 
-<!--
-**shinjitha-m/shinjitha-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Outside work, I'm interested in Carnatic music, badminton and video games. 
 
-Here are some ideas to get you started:
+- Happy to connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about Python and Ancible
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
--->
+
